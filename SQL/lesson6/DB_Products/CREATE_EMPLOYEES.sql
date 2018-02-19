@@ -14,7 +14,7 @@ PostalCode NUMBER(10),
 Country VARCHAR2(100),
 HomePhone VARCHAR2(20),
 Extension VARCHAR2(20),
-Photo BLOB,
+Photo VARCHAR2(1000),
 Notes VARCHAR2(4000),
 ReportsTo NUMBER
 );
