@@ -1,0 +1,5 @@
+INSERT INTO SALESMAN VALUES (5001, 'James Hoog', 'New York', 0,15);
+
+
+
+INSERT INTO CUSTOMER VALUES (3001, 'Nick Rolando', 'New York', 5001);
